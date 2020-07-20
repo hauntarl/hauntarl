@@ -3,11 +3,11 @@
 - **[Dilip's Art Gallery](https://play.google.com/store/apps/details?id=com.hauntarl.dilips_art_gallery)** - Apps on Google Play
 - **[Essentials.io:](https://www.youtube.com/watch?v=n4ZqS8sAz2M)** Mobile App Prototype
 
-🌱 I’m currently learning Flutter, Go and Python
+#### 🌱 I’m currently learning Flutter, Go and Python
 
-📫 How to reach me: [Do you want to?](https://www.linkedin.com/in/hauntarl97/)
+#### 📫 How to reach me: [Do you want to?](https://www.linkedin.com/in/hauntarl97/)
 
-⚡ Fun fact: I once thought of becoming a professional e-sports player, then I graduated...
+#### ⚡ Fun fact: I once thought of becoming a professional e-sports player, then I graduated...
 
 <!--
 **hauntarl/hauntarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
