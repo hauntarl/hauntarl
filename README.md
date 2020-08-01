@@ -1,7 +1,7 @@
 I make ツ
 
-- **[Dilip's Art Gallery](https://play.google.com/store/apps/details?id=com.hauntarl.dilips_art_gallery)** - Apps on Google Play
-- **[Essentials.io:](https://www.youtube.com/watch?v=n4ZqS8sAz2M)** Mobile App Prototype
+- **[Dilip's Art Gallery](https://play.google.com/store/apps/details?id=com.hauntarl.dilips_art_gallery)**: App on Google Play
+- **[Essentials.io](https://www.youtube.com/watch?v=n4ZqS8sAz2M)**: Mobile App Prototype
 
 🌱 I’m currently learning **Flutter, Go and Python**
 
