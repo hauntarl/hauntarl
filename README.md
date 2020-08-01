@@ -5,7 +5,7 @@ I make ツ
 
 🌱 I’m currently learning **Flutter, Go and Python**
 
-📫 How to reach me: **[Do you want to?](https://www.linkedin.com/in/hauntarl97/)**
+📫 How to reach me: **[linkedin/hauntarl97](https://www.linkedin.com/in/hauntarl97/)**
 
 ⚡ Fun fact: **I once thought of becoming a professional e-sports player, then I graduated...**
 
