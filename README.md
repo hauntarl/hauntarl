@@ -9,7 +9,7 @@ I make ツ
 
 ⚡ Fun fact: **I once thought of becoming a professional e-sports player, then I graduated...**
 
-<img src="https://github.com/hauntarl/flutter_samples/blob/master/screenshots/ontap.gif" width="60"> <img src="https://github.com/hauntarl/flutter_samples/blob/master/screenshots/ondrag.gif" width="60"> <img src="https://github.com/hauntarl/flui_002_fitness/blob/master/screenshots/home-page.gif" width="60"> <img src="https://github.com/hauntarl/flui_002_fitness/blob/master/screenshots/menu-page.gif" width="60"> <img src="https://github.com/hauntarl/flui_001_flight_list/blob/master/screenhots/1.png" width="60"> <img src="https://github.com/hauntarl/flui_001_flight_list/blob/master/screenhots/2.png" width="60"> <img src="https://github.com/hauntarl/flutter_samples/blob/master/screenshots/google-filters.gif" width="60">
+<img src="https://github.com/hauntarl/flui_002_fitness/blob/master/screenshots/home-page.gif" width="60"> <img src="https://github.com/hauntarl/flui_002_fitness/blob/master/screenshots/menu-page.gif" width="60"> <img src="https://github.com/hauntarl/flui_001_flight_list/blob/master/screenhots/1.png" width="60"> <img src="https://github.com/hauntarl/flui_001_flight_list/blob/master/screenhots/2.png" width="60"> <img src="https://github.com/hauntarl/flutter_samples/blob/master/screenshots/google-filters.gif" width="60">
 
 <!--
 **hauntarl/hauntarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
