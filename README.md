@@ -25,10 +25,9 @@
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/floating-sidebar/drag-gestures.gif" width="80" height="160">
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/fitness-ui/home-page.gif" width="80" height="160">
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/fitness-ui/menu-page.gif" width="80" height="160">
-> <img src="https://github.com/hauntarl/hauntarl/blob/master/flutter-samples/slivers-demo.gif" width="80" height="160">
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/flight-list/home.png" width="80" height="160">
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/flight-list/results.png" width="80" height="160">
-> <img src="https://github.com/hauntarl/hauntarl/blob/master/flutter-samples/google-filters.gif" width="80" height="160">
+> <img src="https://github.com/hauntarl/hauntarl/blob/master/flutter-samples/slivers-demo.gif" width="80" height="160">
 
 <!--
 **hauntarl/hauntarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
