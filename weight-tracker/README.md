@@ -87,11 +87,6 @@ Record personal weight information periodically in order to share with a third p
 
 ## Asset Catalogue
 
-### App Icon
-
-- [Diet concept drawing weight legs hotdog](https://all-free-download.com/free-vector/download/diet-concept-drawing-weight-legs-hotdog-icons_6834721.html#google_vignette) is free to use as long as app isn't used commercially
-- [App Icon Generator](https://appicon.co/)
-
 ### Color Palette - [Colorhunt](https://colorhunt.co/palettes/popular)
 
 - Background Color: `#F0F5F9`
