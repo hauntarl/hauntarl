@@ -11,7 +11,7 @@
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/dag/user.gif" width="80" height="160">
 
 - **[Essentials.io](https://www.youtube.com/watch?v=n4ZqS8sAz2M)**: Prototype for COVID'19 Hackathon
-- Exercism: My **[Profile](https://exercism.io/profiles/hauntarl)**
+- Exercism: My **[Profile](https://exercism.org/profiles/hauntarl)**
 
 ### 🌱 I’m currently exploring
 
