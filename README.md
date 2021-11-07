@@ -1,4 +1,4 @@
-### 👨‍🔧 I make ツ
+### 👨🏻‍💻 I make ツ
 
 - **[Dilip's Art Gallery](https://play.google.com/store/apps/details?id=com.hauntarl.dilips_art_gallery)**: App on Google Play Store
 
@@ -13,14 +13,18 @@
 - **[Essentials.io](https://www.youtube.com/watch?v=n4ZqS8sAz2M)**: Prototype for COVID'19 Hackathon
 - Exercism: My **[Profile](https://exercism.org/profiles/hauntarl)**
 
-### 🌱 I’m currently exploring
+🔭 I’m currently exploring
 
+- iOS development using UIKit
 - Flutter **[Cookbook](https://flutter.dev/docs/cookbook)**
 - **[Gophercises](https://courses.calhoun.io/courses/cor_gophercises)** by Jon Calhoun
 - CSES **[Problem Set](https://cses.fi/problemset/)**: My *[Solutions](https://github.com/hauntarl/real-python/tree/master/cp)*
 
 ⚡ Fun fact: **I once thought of becoming a professional e-sports player**, then I graduated...
 
+
+> <img src="https://github.com/hauntarl/hauntarl/blob/master/weight-tracker/intro-demo.gif" width="80" height="160">
+> <img src="https://github.com/hauntarl/hauntarl/blob/master/weight-tracker/home-demo.gif" width="80" height="160">
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/floating-sidebar/tap-gestures.gif" width="80" height="160">
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/floating-sidebar/drag-gestures.gif" width="80" height="160">
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/fitness-ui/home-page.gif" width="80" height="160">
