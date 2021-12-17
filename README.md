@@ -15,23 +15,26 @@
 
 🔭 I’m currently exploring
 
-- iOS development using UIKit
+- iOS development using SwiftUI
 - Flutter **[Cookbook](https://flutter.dev/docs/cookbook)**
 - **[Gophercises](https://courses.calhoun.io/courses/cor_gophercises)** by Jon Calhoun
 - CSES **[Problem Set](https://cses.fi/problemset/)**: My *[Solutions](https://github.com/hauntarl/real-python/tree/master/cp)*
 
 ⚡ Fun fact: **I once thought of becoming a professional e-sports player**, then I graduated...
 
-
+> <img src="https://github.com/hauntarl/hauntarl/blob/master/marvel/HomePage.gif" width="80" height="160">
+> <img src="https://github.com/hauntarl/hauntarl/blob/master/marvel/DetailsPage.gif" width="80" height="160">
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/weight-tracker/intro-demo.gif" width="80" height="160">
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/weight-tracker/home-demo.gif" width="80" height="160">
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/floating-sidebar/tap-gestures.gif" width="80" height="160">
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/floating-sidebar/drag-gestures.gif" width="80" height="160">
+
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/fitness-ui/home-page.gif" width="80" height="160">
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/fitness-ui/menu-page.gif" width="80" height="160">
+> <img src="https://github.com/hauntarl/hauntarl/blob/master/flutter-samples/slivers-demo.gif" width="80" height="160">
+> <img src="https://github.com/hauntarl/hauntarl/blob/master/flutter-samples/perspective-demo.gif" width="80" height="160">
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/flight-list/home.png" width="80" height="160">
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/flight-list/results.png" width="80" height="160">
-> <img src="https://github.com/hauntarl/hauntarl/blob/master/flutter-samples/slivers-demo.gif" width="80" height="160">
 
 <!--
 **hauntarl/hauntarl** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
