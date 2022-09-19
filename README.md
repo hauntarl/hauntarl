@@ -18,7 +18,7 @@
 - iOS development using SwiftUI
 - Flutter **[Cookbook](https://flutter.dev/docs/cookbook)**
 - **[Gophercises](https://courses.calhoun.io/courses/cor_gophercises)** by Jon Calhoun
-- CSES **[Problem Set](https://cses.fi/problemset/)**: My *[Solutions](https://github.com/hauntarl/real-python/tree/master/cp)*
+- CSES **[Problem Set](https://cses.fi/problemset/)**: My *[Solutions](https://github.com/hauntarl/cc)*
 
 ⚡ Fun fact: **I once thought of becoming a professional e-sports player**, then I graduated...
 
