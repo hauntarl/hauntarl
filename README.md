@@ -11,11 +11,11 @@
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/dag/user.gif" width="80" height="160">
 
 - **[Essentials.io](https://www.youtube.com/watch?v=n4ZqS8sAz2M)**: Prototype for COVID'19 Hackathon
-- Exercism: My **[Profile](https://exercism.org/profiles/hauntarl)**
+- Exercism (Solve coding exercises and get mentored): My **[Profile](https://exercism.org/profiles/hauntarl)**
 
 🔭 I’m currently exploring
 
-- iOS development using SwiftUI
+- Hacking with Swift: **[100 Days of SwiftUI](https://www.hackingwithswift.com/100/swiftui)**
 - Flutter **[Cookbook](https://flutter.dev/docs/cookbook)**
 - **[Gophercises](https://courses.calhoun.io/courses/cor_gophercises)** by Jon Calhoun
 - CSES **[Problem Set](https://cses.fi/problemset/)**: My *[Solutions](https://github.com/hauntarl/cc)*
