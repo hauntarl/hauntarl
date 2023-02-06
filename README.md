@@ -27,12 +27,13 @@
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/marvel/DetailsPage.gif" width="80" height="160">
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/weight-tracker/intro-demo.gif" width="80" height="160">
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/weight-tracker/home-demo.gif" width="80" height="160">
-> <img src="https://github.com/hauntarl/hauntarl/blob/master/floating-sidebar/tap-gestures.gif" width="80" height="160">
-> <img src="https://github.com/hauntarl/hauntarl/blob/master/floating-sidebar/drag-gestures.gif" width="80" height="160">
-
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/fitness-ui/home-page.gif" width="80" height="160">
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/fitness-ui/menu-page.gif" width="80" height="160">
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/bmi-calculator/BMICalculator-Demo.gif" width="80" height="160">
+
+> <img src="https://github.com/hauntarl/hauntarl/blob/master/spacewalk/SpaceWalk-1.gif" width="80" height="160">
+> <img src="https://github.com/hauntarl/hauntarl/blob/master/floating-sidebar/tap-gestures.gif" width="80" height="160">
+> <img src="https://github.com/hauntarl/hauntarl/blob/master/floating-sidebar/drag-gestures.gif" width="80" height="160">
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/flutter-samples/slivers-demo.gif" width="80" height="160">
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/flutter-samples/perspective-demo.gif" width="80" height="160">
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/flight-list/home.png" width="80" height="160">
