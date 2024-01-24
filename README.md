@@ -10,7 +10,7 @@
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/dag/home.gif" width="80" height="160">
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/dag/user.gif" width="80" height="160">
 
-- ‬‭👻 [ManPac](https://play.unity.com/mg/other/manpac-build-webgl): A small Unity 3D survival game where you play as a Plague Doctor who has come to investigate the Ghost Town.‬
+- ‬‭👻 **[ManPac](https://play.unity.com/mg/other/manpac-build-webgl)**: A small Unity 3D survival game where you play as a Plague Doctor who has come to investigate the Ghost Town.‬
 - 🔖 **[Essentials.io](https://www.youtube.com/watch?v=n4ZqS8sAz2M)**: Prototype for COVID'19 Hackathon
 - 💅🏼 Exercism (Solve coding exercises and get mentored): My **[Profile](https://exercism.org/profiles/hauntarl)**
 
