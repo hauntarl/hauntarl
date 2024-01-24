@@ -1,1 +1,1 @@
-
+<img src="https://github.com/hauntarl/hauntarl/blob/master/RatingBar/RatingBarExamples.gif" width="250"> <img src="https://github.com/hauntarl/hauntarl/blob/master/RatingBar/RatingBarDemoApp.gif" width="250">
