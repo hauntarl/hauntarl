@@ -1,6 +1,6 @@
 ### I make ツ
 
-- 🖼️ **[Dilip's Art Gallery](https://play.google.com/store/apps/details?id=com.hauntarl.dilips_art_gallery)**: App on Google Play Store
+- 🖼️ **[Dilip's Art Gallery](https://github.com/hauntarl/hauntarl/tree/master/dag)**: App on Google Play Store
 
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/dag/posts.gif" width="80" height="160">
 > <img src="https://github.com/hauntarl/hauntarl/blob/master/dag/artworks.gif" width="80" height="160">
